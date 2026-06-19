@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Market Dashboard</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 40px; background-color: #f4f4f9;">
+
+  <h1 style="color: #2c3e50;">Personal Investment & Market Dashboard 📈</h1>
+  
+  <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2 style="color: #34495e;">StockCharts & Watchlist</h2>
+    <ul>
+      <li><strong>Hang Seng Index:</strong> Watching support levels.</li>
+      <li><strong>Nikkei 225:</strong> Monitoring currency impacts.</li>
+      <li><strong>Tech Sector:</strong> Waiting for breakout patterns.</li>
+    </ul>
+
+    <h2 style="color: #34495e;">Daily Observations</h2>
+    <p>This is where I will log my daily market analysis and trends.</p>
+  </div>
+
+</body>
+</html>
